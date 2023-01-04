@@ -1,0 +1,43 @@
+img
+{
+    margin: 5px;
+    padding: 0px;
+    border: rgb(37, 18, 18) double 10px;
+}
+
+body
+{
+    background-image: url(tlo.png);
+    width: 100%;
+    height: 960px; ;
+}
+
+h1
+{
+    text-align: center;
+    font-family: Comic Sans MS;
+}
+
+#nagluwek
+{
+    align-items: center;
+    background-color: rgb(122, 19, 6);
+    float: top;
+    height: 90px;
+}
+
+#obrazy
+{
+    align-items: center;
+    text-align: center;
+}
+.aa1{
+    margin-top: 30px;
+    width: 970px;
+    height: auto;
+    text-align: center;
+    align-self: center;
+    color: aliceblue;
+}
+
+
